@@ -248,3 +248,12 @@ Dataset → Cleaning → Feature Engineering → EDA → Modeling → Deployment
 ├── 📄 data_report.pdf
 │
 └── 📄 README.md
+
+```
+
+## **👤 Author**
+
+**Kenneth Nyangweso**
+
+**Data Scientist | Electrical & Telecommunications Engineer | Machine Learning Engineer | AI Ethusiast**
+
