@@ -1,6 +1,6 @@
 # ⚡ Energy Consumption Prediction
 
-![Energy Banner](https://img.shields.io/badge/Energy-Forecasting-blue?style=for-the-badge)
+
 
 ---
 
@@ -91,11 +91,15 @@ EDA was conducted to understand patterns:
 
 <img width="624" height="576" alt="image" src="https://github.com/user-attachments/assets/4f883401-32f6-497d-a887-70e0729c3d6e" />
 
+
 <img width="673" height="459" alt="image" src="https://github.com/user-attachments/assets/ec570a1e-5ec2-4a95-ad91-c1a1432cc501" />
+
 
 <img width="624" height="494" alt="image" src="https://github.com/user-attachments/assets/55cfc547-35ab-4865-a46c-937e38eda5b3" />
 
+
 <img width="624" height="404" alt="image" src="https://github.com/user-attachments/assets/2f274373-cddb-45b4-a04f-15be0c4780ca" />
+
 
 <img width="624" height="529" alt="image" src="https://github.com/user-attachments/assets/e1a18a3b-f58c-4a7a-9f6a-a8a98d8dc577" />
 
@@ -142,7 +146,7 @@ EDA was conducted to understand patterns:
 
 ---
 
-## 📊 Model Performance
+## 📊 Model Evaluation
 
 | Model | RMSE (MW) | MAE (MW) | R² (%) |
 |------|--------|--------|--------|
@@ -150,6 +154,16 @@ EDA was conducted to understand patterns:
 | XGBoost | 680.30 | 450.34 | 98.91 |
 | LSTM | 1211.30 | 919.16 | 96.56 |
 | **BiLSTM** | **658.26** | **397.29** | **98.98** |
+
+**Overall Performance Ranking:**
+
+1.BiLSTM  (Best overall)
+
+2.Random Forest  (Very strong)
+
+3.XGBoost  (Slightly behind RF)
+
+4.LSTM (Weakest)
 
 ---
 
@@ -176,7 +190,25 @@ Two models were deployed using **Streamlit**:
 👉 Benefits:
 - Model comparison in real-time  
 - Robust forecasting  
-- Demonstrates both ML & DL capabilities  
+- Demonstrates both ML & DL capabilities
+
+#### Results 
+
+<img width="624" height="351" alt="image" src="https://github.com/user-attachments/assets/3856bc03-69c3-44ed-9bb2-a320054f8941" />
+
+<img width="641" height="351" alt="image" src="https://github.com/user-attachments/assets/18aab728-8505-49c5-a47d-4a769a129533" />
+
+<img width="624" height="351" alt="image" src="https://github.com/user-attachments/assets/7fe86d88-2bbf-4d43-8081-dcee162eaf24" />
+
+<img width="624" height="351" alt="image" src="https://github.com/user-attachments/assets/6a7827da-dc66-496d-869a-e76ef471bbf7" />
+
+
+Links to the video demos :
+
+https://screenrec.com/share/2w4tAYqzcD
+
+https://screenrec.com/share/R1ByEiv75Y
+
 
 ---
 
