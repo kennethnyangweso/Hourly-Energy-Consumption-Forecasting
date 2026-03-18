@@ -1,4 +1,5 @@
-# ⚡ Energy Consumption Prediction
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/69ae5d26-c3df-4f29-a263-06e0e11aa43e" />
+
 
 
 
