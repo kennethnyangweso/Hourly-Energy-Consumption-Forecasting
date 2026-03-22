@@ -166,6 +166,20 @@ EDA was conducted to understand patterns:
 
 4.LSTM (Weakest)
 
+### 📈 Best Model (BiLSTM) Evaluation Visuals 
+
+<img width="624" height="289" alt="image" src="https://github.com/user-attachments/assets/d542c085-0394-4d8e-80b8-cfa75d207a04" />
+
+<img width="624" height="287" alt="image" src="https://github.com/user-attachments/assets/5aeeeff5-6ff2-4405-a1ea-8a326ea6c956" />
+
+### **Key Insights**
+
+- As a Bidirectional LSTM model, it leverages past and future context within each sequence. The plot likely shows strong alignment with the actual data, capturing both short-term fluctuations and longer-term dependencies in energy consumption.
+
+- The BiLSTM residuals are centered near zero, it suggests the model captures the general consumption patterns well without consistent over- or under-prediction.
+
+
+
 ---
 
 ## 🚀 Deployment
